@@ -1,0 +1,48 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.logo {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .logo img {
+    width: 200px; 
+    height: auto;
+  }
+
+body {
+    background-color:beige; 
+     }
+
+h1 {
+    font-family: 'Gang of Three', cursive;
+    font-size: 36px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.event-details,
+.artists-lineup,
+.additional-info,
+.social-links,
+.copyright {
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-links a {
+    margin-right: 10px;
+}
